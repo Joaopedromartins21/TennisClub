@@ -32,6 +32,7 @@ Projeto Full Stack de um sistema para gerenciamento de clubes de tênis, com **b
 
 ---
 
+
 ## 🗂️ Estrutura do Projeto
 
 ```bash
@@ -50,6 +51,7 @@ TennisClub/
     ├── package.json
     └── ...
 
+```
 🚀 Como Executar o Projeto
 📦 Backend
 Clone o repositório:
@@ -107,4 +109,3 @@ DELETE /jogadores/{id} — remove um jogador
 João Pedro Aguiar Martins
 📧 jpmarttins.dev@gmail.com
 💼 Projeto desenvolvido com fins de aprendizado e portfólio.
-
