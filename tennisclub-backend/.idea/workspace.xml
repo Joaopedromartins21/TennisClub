@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f90fe73b-2e7f-4aae-a1e8-42c4d2341b4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/tennisclub-frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennisclub-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tennisclub-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennisclub-frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennisclub-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/tennisclub-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennisclub-frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennisclub-frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/tennisclub-frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennisclub-frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tennisclub-frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennisclub-frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennisclub-frontend/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Joaopedromartins21"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Joaopedromartins21/TennisClub.git",
+    "accountId": "1b297df4-f73e-4bb8-b4ed-73db0795696a"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="30ggK6XxLFaYQO5Bhno0bK3cZwi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TennisclubApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/jpmar/OneDrive/Documentos/Projects/tennisclub"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tennisclub.tennisclub.config" />
+      <recent name="com.tennisclub.tennisclub.model" />
+      <recent name="com.tennisclub.tennisclub.service" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f90fe73b-2e7f-4aae-a1e8-42c4d2341b4c" name="Changes" comment="" />
+      <created>1754054565628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754054565628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
