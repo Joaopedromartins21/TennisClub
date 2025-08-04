@@ -56,12 +56,14 @@ TennisClub/
 📦 Backend
 Clone o repositório:
 
-bash
+```bash
 Copy
 Edit
 git clone https://github.com/Joaopedromartins21/TennisClub.git
+```
 Configure o PostgreSQL no application.properties:
 
+```bash 
 properties
 Copy
 Edit
@@ -69,31 +71,36 @@ spring.datasource.url=jdbc:postgresql://localhost:5432/tennisclub
 spring.datasource.username=seu_usuario
 spring.datasource.password=sua_senha
 spring.jpa.hibernate.ddl-auto=update
+```
 Execute o backend com:
 
-bash
+```bash
 Copy
 Edit
 ./mvnw spring-boot:run
+```
 💻 Frontend
 Acesse a pasta do frontend:
 
-bash
+```bash
 Copy
 Edit
 cd frontend
+```
 Instale as dependências:
 
-bash
+```bash
 Copy
 Edit
 npm install
+```
 Execute o frontend:
 
-bash
+```bash
 Copy
 Edit
 npm start
+```
 O projeto estará disponível em http://localhost:3000.
 
 📌 Endpoints Exemplo
