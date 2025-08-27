@@ -226,7 +226,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **João Pedro Aguiar**
 - GitHub: [@Joaopedromartins21](https://github.com/Joaopedromartins21)
-- Email: joaopedroaguiar@example.com
+- Email: jpmarttins.dev@gmail.com
 
 ---
 
