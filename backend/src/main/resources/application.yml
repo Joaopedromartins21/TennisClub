@@ -1,0 +1,67 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /api/joaopedroaguiar/tennisclub/v1
+
+spring:
+  application:
+    name: TennisClub
+  
+  profiles:
+    active: dev
+  
+  datasource:
+    url: jdbc:h2:mem:tennisclub
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: password
+  
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+  
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.H2Dialect
+  
+  security:
+    user:
+      name: admin
+      password: admin123
+
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    operationsSorter: method
+
+jwt:
+  secret: joaopedroaguiar-tennisclub-secret-key-2024
+  expiration: 86400000
+
+---
+spring:
+  config:
+    activate:
+      on-profile: prod
+  
+  datasource:
+    url: jdbc:mysql://localhost:3306/tennisclub?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+  
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+
